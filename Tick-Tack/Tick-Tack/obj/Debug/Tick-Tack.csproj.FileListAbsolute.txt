@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.exe.config
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.pdb
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick_Tack.Form1.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick_Tack.Properties.Resources.resources
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.exe
+C:\Users\Yasin\Desktop\C# Console\25.04.2018\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.pdb
